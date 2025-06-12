@@ -35,7 +35,7 @@ export default function Contact() {
           <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing" 
             className="hover:underline">RESUME</a>
           <Link to="/projects" className="hover:underline">PROJECTS</Link>
-          <Link to="/contact" className="hover:underline">CONTACT</Link>
+          <Link to="/Contact" className="hover:underline">CONTACT</Link>
         </nav>
       </header>
 

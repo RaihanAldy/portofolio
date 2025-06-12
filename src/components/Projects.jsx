@@ -62,7 +62,7 @@ export default function Projects() {
             <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing" 
               className="hover:underline">RESUME</a>
             <Link to="/projects" className="hover:underline">PROJECTS</Link>
-            <a href="#contact" className="hover:underline">CONTACT</a>
+            <a href="/Contact" className="hover:underline">CONTACT</a>
           </nav>
         </header>
 

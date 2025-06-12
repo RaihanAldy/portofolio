@@ -68,7 +68,7 @@ export default function AboutMe() {
                     <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing"
                         className="hover:underline">RESUME</a>
                     <a href="/Projects" className="hover:underline">PROJECTS</a>
-                    <a href="#contact" className="hover:underline">CONTACT</a>
+                    <a href="/Contact" className="hover:underline">CONTACT</a>
                 </nav>
             </header>
 
@@ -128,7 +128,8 @@ export default function AboutMe() {
                             rel="noopener noreferrer">
                             <button className="bg-blue-950 text-white px-6 py-2 rounded-full shadow hover:bg-blue-800 transition">Resume</button>
                         </a>
-                        <button className="border border-blue-950 text-blue-950 px-6 py-2 rounded-full shadow hover:bg-blue-50 transition">Projects</button>
+                        <a href="/Projects">
+                        <button className="border border-blue-950 text-blue-950 px-6 py-2 rounded-full shadow hover:bg-blue-50 transition">Projects</button></a>
                     </div>
 
                     <p className="text-base text-justify leading-relaxed text-gray-700 mb-8">
