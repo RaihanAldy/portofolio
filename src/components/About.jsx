@@ -53,7 +53,7 @@ export default function AboutMe() {
     const achievements = [
         "Speakers at the event Socialization related to the dangers of phishing at SMPN 39 Semarang (community service)",
         "Speakers at the event Training Basic code from game at SMAN 1 Semarang(community service)",
-        "Maintained 3.49 GPA throughout university"
+        "Maintained 3.52 GPA throughout university"
     ];
 
     return (
@@ -65,7 +65,7 @@ export default function AboutMe() {
                 <nav className="space-x-6">
                     <Link to="/" className="hover:underline">HOME</Link>
                     <Link to="/about" className="hover:underline">ABOUT ME</Link>
-                    <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1HaNEM6mWFkI-EtDZEQBMdEp2b3cVADEh/view?usp=drive_link"
                         className="hover:underline">RESUME</a>
                     <a href="/Projects" className="hover:underline">PROJECTS</a>
                     <a href="/Contact" className="hover:underline">CONTACT</a>
@@ -123,7 +123,7 @@ export default function AboutMe() {
                     <h2 className="text-lg font-semibold mb-4 text-gray-600">Here's Who I am & What I do.</h2>
 
                     <div className="flex gap-4 mb-6">
-                        <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing"
+                        <a href="https://drive.google.com/file/d/1HaNEM6mWFkI-EtDZEQBMdEp2b3cVADEh/view?usp=drive_link"
                             target="_blank"
                             rel="noopener noreferrer">
                             <button className="bg-blue-950 text-white px-6 py-2 rounded-full shadow hover:bg-blue-800 transition">Resume</button>
@@ -133,7 +133,7 @@ export default function AboutMe() {
                     </div>
 
                     <p className="text-base text-justify leading-relaxed text-gray-700 mb-8">
-                        I am a 22-year-old final-year Computer Engineering student with a strong passion for technology, particularly in front-end development,
+                        I am a 22-year-old Computer Engineering Graduate with a strong passion for technology, particularly in front-end development,
                         mobile applications, and data science. I have hands-on experience working with modern frameworks and tools,
                         and I enjoy transforming ideas into interactive, user-friendly digital solutions.
                         Known for being highly adaptable, detail-oriented, and a fast learner, I thrive in collaborative environments and constantly seek opportunities to grow and explore new technologies.

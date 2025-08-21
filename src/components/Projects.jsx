@@ -59,7 +59,7 @@ export default function Projects() {
           <nav className="space-x-6">
             <Link to="/" className="hover:underline">HOME</Link>
             <Link to="/about" className="hover:underline">ABOUT ME</Link>
-            <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing" 
+            <a href="https://drive.google.com/file/d/1HaNEM6mWFkI-EtDZEQBMdEp2b3cVADEh/view?usp=drive_link" 
               className="hover:underline">RESUME</a>
             <Link to="/projects" className="hover:underline">PROJECTS</Link>
             <a href="/Contact" className="hover:underline">CONTACT</a>

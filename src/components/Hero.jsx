@@ -27,7 +27,7 @@ export default function HomeCard() {
         <nav className="space-x-6">
           {/* Gunakan <Link> jika ingin SPA route, atau <a href="#about"> jika tidak */}
           <Link to="/about" className="hover:underline">ABOUT ME</Link>
-          <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing" 
+          <a href="https://drive.google.com/file/d/1HaNEM6mWFkI-EtDZEQBMdEp2b3cVADEh/view?usp=drive_link" 
             className="hover:underline">RESUME</a>
           <a href="/Projects" className="hover:underline">PROJECTS</a>
           <a href="/Contact" className="hover:underline">CONTACT</a>
@@ -65,7 +65,7 @@ export default function HomeCard() {
           <h2 className="text-4xl font-sans mb-3">HELLO EVERYONE</h2>
           <p className="text-xl mb-6">Here’s Who I am & What I do.</p>
           <div className="flex space-x-4 mb-6">
-            <a href="https://drive.google.com/file/d/1SbiPH35lcV7eYHVWWSw3nnCEKANTGdIG/view?usp=sharing"
+            <a href="https://drive.google.com/file/d/1HaNEM6mWFkI-EtDZEQBMdEp2b3cVADEh/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer">
             <button className="bg-indigo-800 text-white px-4 py-2 rounded-full font-semibold">RESUME</button>
@@ -75,7 +75,7 @@ export default function HomeCard() {
             </a>
           </div>
           <p className="text-sm text-gray-700 text-justify">
-            Final-Year student majoring in computer Engineering at Dian Nuswantoro University.
+            Graduate of the Computer Engineering at Dian Nuswantoro University, Semarang.
             Has creative ideas and great interest in technology, especially in the field of informatics technology such as 
             programming and software development. 
             Like to exploring and learning new things, adaptable to the environment and working together with others.       
