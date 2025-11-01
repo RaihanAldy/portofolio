@@ -1,6 +1,4 @@
 
-# 📝 README.md untuk Portfolio Raihan Aldy
-
 ```markdown
 # 🚀 Raihan Aldy - Portfolio
 
