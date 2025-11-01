@@ -1,4 +1,3 @@
-Berdasarkan analisis saya terhadap repository portfolio Anda di https://github.com/RaihanAldy/portofolio, saya akan membuat README yang profesional dan komprehensif untuk memamerkan karya Anda dengan baik.
 
 # 📝 README.md untuk Portfolio Raihan Aldy
 
